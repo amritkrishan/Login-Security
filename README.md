@@ -1,10 +1,10 @@
 # Login-Security
 
 # Project Dependency :
-Spring Boot
-Spring Data JPA (HSQLDB)
-Spring Security
-Tomcat
+1. Spring Boot
+2. Spring Data JPA (HSQLDB)
+3. Spring Security
+4. Tomcat
 
 # Model :
 1. User
